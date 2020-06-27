@@ -49,7 +49,3 @@ While the ticks on the axes allow us to infer approximate values for each circle
 * Check out [David Gotz's example](https://bl.ocks.org/davegotz/bd54b56723c154d25eedde6504d30ad7) to see how you should implement tooltips with d3-tip.
 
 - - -
-### Copyright
-
-Trilogy Education Services © 2019. All Rights Reserved.
-
